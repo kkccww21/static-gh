@@ -1,0 +1,25 @@
+{
+    "desc": "此链接为 MusicFree 插件，插件开发及使用方式参考 https://musicfree.upup.fun",
+    "plugins": [
+        {
+            "name": "元力QQ",
+            "url": "http://music.haitangw.net/cqapi/qq.js",
+            "version": "0.0.0"
+        },
+        {
+            "name": "元力KG",
+            "url": "http://music.haitangw.net/cqapi/kg.js",
+            "version": "0.0.0"
+        },
+        {
+            "name": "元力KW",
+            "url": "http://music.haitangw.net/cqapi/wy.js",
+            "version": "0.0.0"
+        },
+        {
+            "name": "开心汽水",
+            "url": "https://gitee.com/hongmengv5/musicfree/raw/master/qishui.js",
+            "version": "0.0.0"
+        }
+    ]
+}
